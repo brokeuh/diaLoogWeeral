@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">diaLoogWeeral</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_btn_toast">Let there be toast.</string>
+    <string name="str_btn_simple">Azo ne simplenen</string>
+    <string name="btnFlu">Gotta Catch \'em All</string>
+    <string name="str_btn_almenac">Almenac</string>
+</resources>
